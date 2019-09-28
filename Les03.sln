@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening01-SASS", "Oefening
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening03-BootstrapViaCDN", "Oefening03-BootstrapViaCDN\Oefening03-BootstrapViaCDN.csproj", "{C6FAC2A9-09AD-4F7D-8BF2-1FE7C5A997E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening04-BootstrapViaNPM", "Oefening04-BootstrapViaNPM\Oefening04-BootstrapViaNPM.csproj", "{CBC1C2D1-E887-44B0-B915-50863F525788}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C6FAC2A9-09AD-4F7D-8BF2-1FE7C5A997E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6FAC2A9-09AD-4F7D-8BF2-1FE7C5A997E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6FAC2A9-09AD-4F7D-8BF2-1FE7C5A997E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC1C2D1-E887-44B0-B915-50863F525788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC1C2D1-E887-44B0-B915-50863F525788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC1C2D1-E887-44B0-B915-50863F525788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC1C2D1-E887-44B0-B915-50863F525788}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
