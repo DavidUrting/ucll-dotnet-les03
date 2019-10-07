@@ -1,11 +1,8 @@
-﻿const path = require('path');
-
-// webpack.config.js 
+﻿// webpack.config.js 
 module.exports = { 
   entry: { main: './src/index.js' },
   output: {
-    path: path.resolve(__dirname, 'wwwroot'),
-    filename: 'main.js'
+    filename: '../wwwroot/main.js'
   },
   module: {
     rules: [
